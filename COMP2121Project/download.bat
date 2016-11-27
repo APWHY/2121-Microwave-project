@@ -1,0 +1,1 @@
+"C:\Users\Thomas\Documents\avr projs\lab4\bin\avrdude.exe" -C "C:\Users\Thomas\Documents\avr projs\lab4\bin\avrdude.conf" -v -v -v -v -c stk500v2 -p m2560 -P %1 -b 115200 -U flash:w:%2:i -D
